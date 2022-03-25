@@ -16,15 +16,27 @@
         <div class="row">
             <div class="col"></div>
             <div class="col-6">
-                <!-- NAV -->
-                <ul class="nav">
-                    <li class="nav-item">
-                        <a class="nav-link" href="index.php">Home</a>
+
+            <!-- NAV -->
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <img class="logoRcs"
+                    src="img/logorcs.png"
+                    alt="Ecusson du Racing Club de Strasbourg">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="index.php">Accueil <span class="sr-only"></span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="joueur.php">joueurs</a>
+                        <a class="nav-link" href="./joueur.php">Joueurs</a>
                     </li>
-                </ul>
+                    </ul>
+                </div>
+            </nav>
             <!-- NAV FIN -->
 
             <h1>Soccer manager !</h1>

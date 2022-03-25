@@ -26,6 +26,11 @@ Réalisation d'un site fictif concernant l'équipe de football du Racing Club de
 
 # Langages & outils utilisés
 
+    HTML 
+    CSS
+    Bootstrap
     PHP
     Trello
+    Dia
+
     
