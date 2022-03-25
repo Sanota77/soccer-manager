@@ -49,8 +49,7 @@
   </div>
 </nav>
 
-                <!--affichage terrain -->
-                <div class="terrain">ici c'est strasbourg</div>
+                
                 
             </div>
             <div class="col">
@@ -59,6 +58,25 @@
         </div>
     </div>
 
+    <!--affichage terrain -->
+    <div class="terrain">
+        <div class="gardien" style="width: 5rem;">
+        <img src="..." class="card-img-top" alt="gardien de but">
+            <div class="card-body">
+                <h5 class="card-title">Nom prenom</h5>
+            </div>
+        </div>
+    <div class="def1">defenseur</div>
+    <div class="def2">defenseur</div>
+    <div class="def3">defenseur</div>
+    <div class="def4">defenseur</div>
+    <div class="mid1">milieu</div>
+    <div class="mid2">milieu</div>
+    <div class="mid3">milieu</div>
+    <div class="att1">Attaquant</div>
+    <div class="att2">Attaquant</div>
+    <div class="att3">Attaquant</div>
+    </div>
     
 
 
