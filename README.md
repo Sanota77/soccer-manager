@@ -10,6 +10,7 @@ Réalisation d'un site fictif concernant l'équipe de football du Racing Club de
     Backend Developper : Franck (https://github.com/Franck-Roth)
     Backend Developper : Kevin (https://github.com/Sanota77)
     Backend Developper : Amine (https://github.com/pepito67800)
+    Backend Developper : Barış (https://github.com/barisrz)
 
 # Etapes
 
