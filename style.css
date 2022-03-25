@@ -1,8 +1,14 @@
 .terrain{
     background-image: url("./terrainbg.png");
     background-repeat: no-repeat;
-    margin: auto;
-    padding: auto;
-    width: 960px;
-    height: 960px;
+    background-size: 50%;
+    margin-left: 20px;
+    width: 1920px;
+    height: 812px;
+    
 }
+
+.gardien{
+    
+}
+
