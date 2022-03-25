@@ -29,17 +29,19 @@
                 </ul>
             <!-- NAV FIN -->
 
-            <h1>Soccer manager !</h1>
-            <div class="container">
+                <h1>Soccer manager !</h1>
+
+                <!--affichage terrain -->
                 <div class="terrain">ici c'est strasbourg</div>
-            </div>
+                
             </div>
             <div class="col">
             vide
             </div>
         </div>
     </div>
-      
+
+    
 
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
