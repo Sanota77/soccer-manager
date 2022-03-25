@@ -38,24 +38,87 @@
                 </div>
             </nav>
             <!-- NAV FIN -->
-                <!--affichage terrain -->
+
+            <!--affichage terrain -->
+
             <div class="terrain">
-                <div class="gardien" style="width: 5rem;">
-                <img src="..." class="card-img-top" alt="gardien de but">
+                <div class="gardien">
+                <img src="./img/gamgam.webp" class="card-img-top" alt="gardien de but">
                     <div class="card-body">
-                        <h5 class="card-title">Nom prenom</h5>
+                        <p class="card-name">Nom prenom</p>
                     </div>
                 </div>
-            <div class="def1">defenseur</div>
-            <div class="def2">defenseur</div>
-            <div class="def3">defenseur</div>
-            <div class="def4">defenseur</div>
-            <div class="mid1">milieu</div>
-            <div class="mid2">milieu</div>
-            <div class="mid3">milieu</div>
-            <div class="att1">Attaquant</div>
-            <div class="att2">Attaquant</div>
-            <div class="att3">Attaquant</div>
+
+                <div class="def1">
+                    <img src="./img/gamgam.webp" class="card-img-top" alt="gardien de but">
+                        <div class="card-body">
+                            <p class="card-name">Nom prenom</p>
+                        </div>
+                </div>
+
+                <div class="def2">
+                    <img src="./img/gamgam.webp" class="card-img-top" alt="gardien de but">
+                        <div class="card-body">
+                            <p class="card-name">Nom prenom</p>
+                        </div>
+                </div>
+
+                <div class="def3">
+                    <img src="./img/gamgam.webp" class="card-img-top" alt="gardien de but">
+                        <div class="card-body">
+                            <p class="card-name">Nom prenom</p>
+                        </div>
+                </div>
+
+                <div class="def4">
+                    <img src="./img/gamgam.webp" class="card-img-top" alt="gardien de but">
+                        <div class="card-body">
+                            <p class="card-name">Nom prenom</p>
+                        </div>
+                </div>
+
+                <div class="mid1">
+                    <img src="./img/gamgam.webp" class="card-img-top" alt="gardien de but">
+                        <div class="card-body">
+                            <p class="card-name">Nom prenom</p>
+                        </div>
+                </div>
+
+                <div class="mid2">
+                    <img src="./img/gamgam.webp" class="card-img-top" alt="gardien de but">
+                        <div class="card-body">
+                            <p class="card-name">Nom prenom</p>
+                        </div>
+                </div>
+
+                <div class="mid3">
+                    <img src="./img/gamgam.webp" class="card-img-top" alt="gardien de but">
+                        <div class="card-body">
+                            <p class="card-name">Nom prenom</p>
+                        </div>
+                </div>
+
+                <div class="att1">
+                    <img src="./img/gamgam.webp" class="card-img-top" alt="gardien de but">
+                        <div class="card-body">
+                            <p class="card-name">Nom prenom</p>
+                        </div>
+                </div>
+                
+                <div class="att2">
+                    <img src="./img/gamgam.webp" class="card-img-top" alt="gardien de but">
+                        <div class="card-body">
+                            <p class="card-name">Nom prenom</p>
+                        </div>
+                </div>
+                
+                <div class="att3">
+                    <img src="./img/gamgam.webp" class="card-img-top" alt="gardien de but">
+                        <div class="card-body">
+                            <p class="card-name">Nom prenom</p>
+                        </div>
+                </div>
+
             </div>
                 
             </div>

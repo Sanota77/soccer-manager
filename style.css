@@ -13,3 +13,85 @@
     width: 75px;
     height: 75px;
 }
+
+.card-img-top{
+    border-radius: 50%;
+    width: 50%;
+}
+
+.gardien{
+    position: relative;
+    top: 310px; 
+    left: 40px;
+    width: 5rem;
+}
+
+.def1{
+    position: relative;
+    top: -85px; 
+    left: 285px;
+    width: 5rem;
+}
+
+.def2{
+    position: relative;
+    top: -85px; 
+    left: 240px;
+    width: 5rem;
+}
+
+.def3{
+    position: relative;
+    top: -35px; 
+    left: 240px;
+    width: 5rem;
+}
+
+.def4{
+    position: relative;
+    top: -20px; 
+    left: 285px;
+    width: 5rem;
+}
+
+.mid1{
+    position: relative;
+    bottom: 625px; 
+    left: 515px;
+    width: 5rem;
+}
+
+.mid2{
+    position: relative;
+    bottom: 575px; 
+    left: 515px;
+    width: 5rem;
+}
+
+.mid3{
+    position: relative;
+    bottom: 525px; 
+    left: 515px;
+    width: 5rem;
+}
+
+.att1{
+    position: relative;
+    bottom: 1070px; 
+    left: 750px;
+    width: 5rem;
+}
+
+.att2{
+    position: relative;
+    bottom: 1020px;
+    left: 800px;
+    width: 5rem;
+}
+
+.att3{
+    position: relative;
+    bottom: 970px;
+    left: 750px;
+    width: 5rem;
+}
